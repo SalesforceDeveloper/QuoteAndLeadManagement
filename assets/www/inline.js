@@ -1,5 +1,5 @@
 //Sample code for Hybrid REST Explorer
-
+//added this comment
 function regLinkClickHandlers() {
     var $j = jQuery.noConflict();
     
